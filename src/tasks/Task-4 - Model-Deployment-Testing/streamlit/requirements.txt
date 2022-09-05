@@ -146,8 +146,6 @@ pyparsing==2.4.7
 pyrsistent==0.16.0
 PySocks==1.7.1
 pytest==6.0.1
-python-dateutil==2.8.1
-python-editor==1.0.4
 pytz==2020.1
 pytzdata==2020.1
 PyWavelets==1.1.1
@@ -216,5 +214,3 @@ widgetsnbextension==3.5.1
 wordcloud==1.8.0
 wrapt==1.14.1
 xgboost==1.2.0
-yellowbrick==1.1
-zipp==3.8.0
